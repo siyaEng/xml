@@ -1,1 +1,710 @@
-<mxfile host="www.draw.io" modified="2020-05-12T03:25:09.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.1.0" etag="kCePB70tQqOGy5frOrTy" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">3Vvbkps4EP0aP84UQuDLYzKX7MtWpWq2ajePDMiGGoxYIY/tfP1KIG5q2ZFtDKmdl5gGBDo63X1aTWb4aXv4xoI8/pNGJJ25TnSY4eeZ66L5Yin+kZZjZVkiZdiwJFIXtYa35CdRRkdZd0lEit6FnNKUJ3nfGNIsIyHv2QLG6L5/2Zqm/afmwYYAw1sYpND6dxLxWFnRfNWe+IMkm1g9eunOqxPvQfixYXSXqefNXLwu/6rT26AeS020iIOI7jsm/DLDT4xSXv3aHp5IKrGtYavuez1xtnlvRjJuc4Nb3fAZpDs19b9iRoJI2NRYBT/WqBT7ZJsGmTj6uo8TTt7yIJSn9oIE8MHq/k/CODl0TOpFvhG6JZwdxSUNbbxHv7pJ0Qa5ijb7dhHcpYIu7uDvL5QxUAu/aUZvJy9+qPmbsfABFgABcYOgoARALFwujQUPGH/jAZfGdZKmTzSlrLwaO+WfvJgz+kE6Z9ZrdQbC5l4Mm+P0QPMcgBk2QIYHQGxugVgkHEsdkvSd7l9aw9fSIE7ElCU/acYD8aCvcuaJcMUvabLJxMl3yjndyquz6Iv0bWGjOckqi4odSxPKr68KZXHdayJn8YzEUemeRE7BOQl/QXcsJD1eiIXeEHXVojLJyd2yRCbs1SDfaSJeqR0BaZ6BtCGqt1N3aSvYvJDVoi7AoiaRWC19YQdg7twxz2nfDbkmbx+Aukswy11BmBw05AnNRphukwPGmO7KwlOBe93LoRbQoZaWDsVIGvDks5+mbwGmBryDTE4LXmqL7TYQefz+TMB1iBmDCQiBCU9IhSWkQj3xCbgA1dAA+ewsdDCh3QBmjdw1mapLPcdAvcZojfqJRKZHwZXG6WpCIJGBgUD20Ac6kREF4sGxc1kuLyhOvzDW3tfvCWrxoxrw2myLAeUaAQ7Jd2cB7nnTCnAEwYD+d38Fji/FbW5WdyMIcOTdI2JNq8CxIbBhQ5rwLSPbob8qtR9fLMH9vmtYhpsrQgKChailAr+Yua4WQ8dU4AhWj2FMwo+Z3K+RSnwm60uMJH0ysm8VWTECEqOKcwRLLujF95FkJmcz1Lv1Wk2gyWCh1ghz598d2Y3hF+MK9OlqNRMb5gY2TFatubB4URxwyDbnRwAUi+n2fVdAZSD3ZMO7KwPk62EFEskkp85tEFljBauZI4Gx83J5EChZkJI1v5NaOCT8H0lRIUerox8lYc+RWZ4TCFW3Lfz6+Ec7jDz8TlgikCTM2gGa/kPHAdwLtceDGmPg2gnp4WagkqcppernLIeteQxFT0bvT0xO8wk1rIlHdQkwNo+09cWOb8Wja5bapkCZNJnV8E2QzCwaTnWRmyZl1V8BU7ck52fTF6OiJpZb2fh5dRqeC3KZthOC3MUjzGa+IZshfwCw/oe9JlOUMInvC7ONvlB6pfrrAKFveiFdjwwXIOonddY1Soo84GHcqf8ayd9Y9pR9lP0arrbLhi8CkDdhFYCh0g1ZUpK1g0JBzN2qOmxklJs3C8WtFZnr2vM2pJz+3oi3MlTPpl3lQZCCOvdcisloJ5Ked2AHSMwoKOLywPChhSnfGNobeLJ8gy1ysZEpJ6HSaiplv51PrtfnE14ZEg1kkzdAnvFs2mMX55m2NIF1yZ36QwY61rG2R0fPko5jNYj0zfSlFiJs+0N6sYT1gQYrlrTY5wxbLEGnbRpE9RKP1iBauNM2iDAsHHNGQ1IUJq3wS0XgXTp/rW7ynDEFgc3naRM1p3t7L+6Vey8eDE7W+yxjBacHTRh7+mdYttHpAemtF70hNVB4ekDacxSPButf2/QuOrS0kV/XJz0Dh+qY8ftyyF09asLFlkV6PIIjDViowUYMXGjQnJdV85Wt+dvDtV4I+/WoI3Tm8XRdHIVTT/kZGuh4ui4OrPnHwgZBbExfTY3W4RKH7cf+lVe2/6MCv/wH</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-05-12T11:00:39.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="EuMvk6PebzFzdlxW94OS" version="13.1.0" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1113" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="老师布置视角" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="420" y="170" width="250" height="970" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="发作业" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="选择范围" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="选择学科" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-45" value="选择教材版本" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="432" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-59" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" target="TUafEwfIU1hCBpsNXQoA-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="456.5" as="sourcePoint" />
+            <mxPoint x="340" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-105" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.364;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2" target="TUafEwfIU1hCBpsNXQoA-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="482" as="sourcePoint" />
+            <mxPoint x="710" y="522" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="522" />
+              <mxPoint x="490" y="522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-109" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="380" as="sourcePoint" />
+            <mxPoint x="114.5" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-111" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" target="TUafEwfIU1hCBpsNXQoA-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.5" y="482" as="sourcePoint" />
+            <mxPoint x="115" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-112" value="获取知识树列表" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="542" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-115" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="TUafEwfIU1hCBpsNXQoA-137" target="TUafEwfIU1hCBpsNXQoA-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="682" as="sourcePoint" />
+            <mxPoint x="115" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-116" value="获取题目" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="704" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-125" value="1.发送作业【异步回调】&#xa;2.同步题库【异步】&#xa;3.作业信息入库" style="" vertex="1" parent="2">
+          <mxGeometry x="45" y="822" width="140" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-126" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" target="TUafEwfIU1hCBpsNXQoA-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="752" as="sourcePoint" />
+            <mxPoint x="115" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-137" value="获取知识树详情" style="" vertex="1" parent="2">
+          <mxGeometry x="60" y="622" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-138" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.5" y="592" as="sourcePoint" />
+            <mxPoint x="115" y="622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-155" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.5" y="930" as="sourcePoint" />
+            <mxPoint x="115" y="1007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-52" value="知识树题目依赖" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="820" y="170" width="200" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-99" value="获取知识树列表" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-52">
+          <mxGeometry x="50" y="432" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-100" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="456.5" as="sourcePoint" />
+            <mxPoint x="50" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-120" value="获取题目" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-52">
+          <mxGeometry x="50" y="704" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-134" value="获取知识树详情" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-52">
+          <mxGeometry x="50" y="622" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-71" value="redis缓存层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="150" height="970" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-81" value="获取知识树列表" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-71">
+          <mxGeometry x="20" y="432" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-118" value="获取题目" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-71">
+          <mxGeometry x="20" y="704" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-114" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74.5" y="568" as="sourcePoint" />
+            <mxPoint x="74.5" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-160" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-71" source="TUafEwfIU1hCBpsNXQoA-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="728.5" as="sourcePoint" />
+            <mxPoint x="200" y="729" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-113" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.645;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-112" target="TUafEwfIU1hCBpsNXQoA-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="714.5" as="sourcePoint" />
+            <mxPoint x="1140" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="941" y="737" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-119" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-116" target="TUafEwfIU1hCBpsNXQoA-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.5" y="832" as="sourcePoint" />
+            <mxPoint x="690" y="907" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-124" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.4;entryY=1.02;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-116" target="TUafEwfIU1hCBpsNXQoA-120">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="930" as="sourcePoint" />
+            <mxPoint x="1110" y="932" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="563" y="960" />
+              <mxPoint x="914" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4" value="数据层" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="420" y="1180" width="1540" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-146" value="ding_homework&#xa;作业主表【作业维度】&#xa;【关联钉钉作业id】" style="" vertex="1" parent="4">
+          <mxGeometry x="760" y="40" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-135" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-137" target="TUafEwfIU1hCBpsNXQoA-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="825" as="sourcePoint" />
+            <mxPoint x="710" y="825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-175" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.002;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1030" as="sourcePoint" />
+            <mxPoint x="355" y="1025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="钉钉中间件依赖" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
+          <mxGeometry x="200" y="170" width="220" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="获取用户信息" style="" parent="3" vertex="1">
+          <mxGeometry x="50" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-128" value="发送作业" style="" vertex="1" parent="3">
+          <mxGeometry x="45" y="830" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-130" value="同步题库" style="" vertex="1" parent="3">
+          <mxGeometry x="45" y="890" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-169" value="获取用户学科列表" style="" vertex="1" parent="3">
+          <mxGeometry x="50" y="226" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-172" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109.58095238095218" y="168" as="sourcePoint" />
+            <mxPoint x="110.08" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-258" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.002;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.27999999999975" y="915.06" as="sourcePoint" />
+            <mxPoint x="155" y="914.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-188" value="学生/家长做作业视角" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="420" y="1350" width="400" height="540" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-189" value="z" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-188">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-190" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188" source="TUafEwfIU1hCBpsNXQoA-189" target="TUafEwfIU1hCBpsNXQoA-191">
+          <mxGeometry x="100" y="40" as="geometry">
+            <mxPoint x="115" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-191" value="获取作业内容&#xa;获取学生作业状态" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-188">
+          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-192" value="做作业" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-188">
+          <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-193" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188" source="TUafEwfIU1hCBpsNXQoA-191" target="TUafEwfIU1hCBpsNXQoA-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-194" value="1.提交作业&#xa;2.同步作业答题状态&#xa;3.同步作业答题信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-188">
+          <mxGeometry x="60" y="332" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-195" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188" source="TUafEwfIU1hCBpsNXQoA-192" target="TUafEwfIU1hCBpsNXQoA-194">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-242" value="查询" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188" source="TUafEwfIU1hCBpsNXQoA-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="244.5" as="sourcePoint" />
+            <mxPoint x="210" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-245" value="更新学习作业信息" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="245" as="sourcePoint" />
+            <mxPoint x="270" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-246" value="更新学生作业状态" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="355" as="sourcePoint" />
+            <mxPoint x="330" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-252" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-188" target="TUafEwfIU1hCBpsNXQoA-251">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.58000000000004" y="382" as="sourcePoint" />
+            <mxPoint x="114.58000000000004" y="444" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-209" value="oss对象存储" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="820" y="1350" width="200" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-247" value="图片" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-209">
+          <mxGeometry x="45" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-219" value="access token中间件" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="200" y="1180" width="220" height="130" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-238" value="获取access_token" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-219">
+          <mxGeometry x="37.5" y="50" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-227" value="钉钉中间件依赖" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="200" y="1350" width="220" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-229" value="获取家长信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-227">
+          <mxGeometry x="35" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-234" value="作业答题状态" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-227">
+          <mxGeometry x="35" y="328" width="115" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-251" value="作业答题信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-227">
+          <mxGeometry x="35" y="410" width="115" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-243" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-191" target="TUafEwfIU1hCBpsNXQoA-229">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="1490" as="sourcePoint" />
+            <mxPoint x="255" y="1640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1485" />
+              <mxPoint x="450" y="1535" />
+              <mxPoint x="380" y="1535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-248" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-192" target="TUafEwfIU1hCBpsNXQoA-247">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="1650" as="sourcePoint" />
+            <mxPoint x="545" y="1580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="563" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-250" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-194" target="TUafEwfIU1hCBpsNXQoA-234">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="1630" as="sourcePoint" />
+            <mxPoint x="330" y="1707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-244" value="布置对象是家长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-256" value="学生作业表【学生维度】&#xa;ding_homework_student" style="" vertex="1" parent="1">
+          <mxGeometry x="840" y="1230" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-257" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="TUafEwfIU1hCBpsNXQoA-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304.5009523809522" y="450" as="sourcePoint" />
+            <mxPoint x="305" y="508" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-259" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-219" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="1120" as="sourcePoint" />
+            <mxPoint x="305" y="1290.0000000000002" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-240" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-219" target="TUafEwfIU1hCBpsNXQoA-227">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="296" y="1310" as="sourcePoint" />
+            <mxPoint x="294.58000000000004" y="1500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-262" value="获取班级列表" style="" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-187" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="TUafEwfIU1hCBpsNXQoA-262">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="590" as="sourcePoint" />
+            <mxPoint x="295" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="315" />
+              <mxPoint x="410" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-271" value="查看作业统计老师视角" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1360" y="160" width="250" height="970" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-272" value="查看作业" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="40" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-273" value="选择范围" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-274" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" source="TUafEwfIU1hCBpsNXQoA-272">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-275" value="选择学科" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-276" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" source="TUafEwfIU1hCBpsNXQoA-273" target="TUafEwfIU1hCBpsNXQoA-275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-277" value="选择教材版本" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="432" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-278" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" target="TUafEwfIU1hCBpsNXQoA-296">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="456.5" as="sourcePoint" />
+            <mxPoint x="340" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-279" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.364;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" target="TUafEwfIU1hCBpsNXQoA-291">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="482" as="sourcePoint" />
+            <mxPoint x="710" y="522" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="522" />
+              <mxPoint x="490" y="522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-280" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" source="TUafEwfIU1hCBpsNXQoA-275">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="380" as="sourcePoint" />
+            <mxPoint x="114.5" y="432" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-281" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" target="TUafEwfIU1hCBpsNXQoA-282">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.5" y="482" as="sourcePoint" />
+            <mxPoint x="115" y="537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-282" value="获取知识树列表" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="542" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-283" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" source="TUafEwfIU1hCBpsNXQoA-287" target="TUafEwfIU1hCBpsNXQoA-284">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="682" as="sourcePoint" />
+            <mxPoint x="115" y="647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-284" value="获取题目" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="704" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-285" value="1.发送作业【异步回调】&#xa;2.同步题库【异步】&#xa;3.作业信息入库" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="45" y="822" width="140" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-286" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271" target="TUafEwfIU1hCBpsNXQoA-285">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="752" as="sourcePoint" />
+            <mxPoint x="115" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-287" value="获取知识树详情" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry x="60" y="622" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-288" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.5" y="592" as="sourcePoint" />
+            <mxPoint x="115" y="622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-289" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-271">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.5" y="930" as="sourcePoint" />
+            <mxPoint x="115" y="1007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-290" value="知识树题目依赖" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1760" y="160" width="200" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-291" value="获取知识树列表" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-290">
+          <mxGeometry x="50" y="432" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-292" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-290">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="456.5" as="sourcePoint" />
+            <mxPoint x="50" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-293" value="获取题目" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-290">
+          <mxGeometry x="50" y="704" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-294" value="获取知识树详情" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-290">
+          <mxGeometry x="50" y="622" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-295" value="redis缓存层" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1610" y="160" width="150" height="970" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-296" value="获取知识树列表" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-295">
+          <mxGeometry x="20" y="432" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-297" value="获取题目" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-295">
+          <mxGeometry x="20" y="704" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-298" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-295">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="74.5" y="568" as="sourcePoint" />
+            <mxPoint x="74.5" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-299" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-295" source="TUafEwfIU1hCBpsNXQoA-297">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="728.5" as="sourcePoint" />
+            <mxPoint x="200" y="729" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-300" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.645;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-282" target="TUafEwfIU1hCBpsNXQoA-291">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="704.5" as="sourcePoint" />
+            <mxPoint x="2080" y="705" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1881" y="727" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-301" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-284" target="TUafEwfIU1hCBpsNXQoA-297">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1484.5" y="822" as="sourcePoint" />
+            <mxPoint x="1630" y="897" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-302" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.4;entryY=1.02;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-284" target="TUafEwfIU1hCBpsNXQoA-293">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="920" as="sourcePoint" />
+            <mxPoint x="2050" y="922" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1503" y="950" />
+              <mxPoint x="1854" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-305" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-287" target="TUafEwfIU1hCBpsNXQoA-294">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1540" y="815" as="sourcePoint" />
+            <mxPoint x="1650" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-306" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.002;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-285">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="1020" as="sourcePoint" />
+            <mxPoint x="1295" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-307" value="钉钉中间件依赖" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1140" y="160" width="220" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-308" value="获取用户信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry x="50" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-309" value="发送作业" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry x="45" y="830" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-310" value="同步题库" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry x="45" y="890" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-311" value="获取用户学科列表" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry x="50" y="226" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-312" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="109.58095238095218" y="168" as="sourcePoint" />
+            <mxPoint x="110.08" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-313" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.002;exitY=0.31;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265.27999999999975" y="915.06" as="sourcePoint" />
+            <mxPoint x="155" y="914.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-314" value="学生/家长做作业视角" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1350" width="400" height="540" as="geometry">
+            <mxRectangle x="630" y="128" width="80" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-315" value="z" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-314">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-316" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314" source="TUafEwfIU1hCBpsNXQoA-315" target="TUafEwfIU1hCBpsNXQoA-317">
+          <mxGeometry x="100" y="40" as="geometry">
+            <mxPoint x="115" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-317" value="获取作业内容&#xa;获取学生作业状态" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-314">
+          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-318" value="做作业" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-314">
+          <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-319" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314" source="TUafEwfIU1hCBpsNXQoA-317" target="TUafEwfIU1hCBpsNXQoA-318">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-320" value="1.提交作业&#xa;2.同步作业答题状态&#xa;3.同步作业答题信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-314">
+          <mxGeometry x="60" y="332" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-321" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314" source="TUafEwfIU1hCBpsNXQoA-318" target="TUafEwfIU1hCBpsNXQoA-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-322" value="查询" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314" source="TUafEwfIU1hCBpsNXQoA-317">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="244.5" as="sourcePoint" />
+            <mxPoint x="210" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-323" value="更新学习作业信息" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="245" as="sourcePoint" />
+            <mxPoint x="270" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-324" value="更新学生作业状态" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="355" as="sourcePoint" />
+            <mxPoint x="330" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-325" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TUafEwfIU1hCBpsNXQoA-314" target="TUafEwfIU1hCBpsNXQoA-333">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114.58000000000004" y="382" as="sourcePoint" />
+            <mxPoint x="114.58000000000004" y="444" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-326" value="oss对象存储" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1350" width="200" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-327" value="图片" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-326">
+          <mxGeometry x="45" y="285" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-330" value="钉钉中间件依赖" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1350" width="220" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-331" value="获取家长信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-330">
+          <mxGeometry x="35" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-332" value="作业答题状态" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-330">
+          <mxGeometry x="35" y="328" width="115" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-333" value="作业答题信息" style="" vertex="1" parent="TUafEwfIU1hCBpsNXQoA-330">
+          <mxGeometry x="35" y="410" width="115" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-334" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-317" target="TUafEwfIU1hCBpsNXQoA-331">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="1490" as="sourcePoint" />
+            <mxPoint x="1195" y="1640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1390" y="1485" />
+              <mxPoint x="1390" y="1535" />
+              <mxPoint x="1320" y="1535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-335" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-318" target="TUafEwfIU1hCBpsNXQoA-327">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="1650" as="sourcePoint" />
+            <mxPoint x="1485" y="1580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1503" y="1660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-336" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-320" target="TUafEwfIU1hCBpsNXQoA-332">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1485" y="1630" as="sourcePoint" />
+            <mxPoint x="1270" y="1707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-337" value="布置对象是家长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-339" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-275" target="TUafEwfIU1hCBpsNXQoA-311">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1244.5009523809522" y="440" as="sourcePoint" />
+            <mxPoint x="1245" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-340" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-219" target="TUafEwfIU1hCBpsNXQoA-307">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1249.9999999999995" y="1170" as="sourcePoint" />
+            <mxPoint x="1245" y="1280.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="365" y="1160" />
+              <mxPoint x="1030" y="1160" />
+              <mxPoint x="1250" y="1160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-341" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="TUafEwfIU1hCBpsNXQoA-330">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1359.9999999999995" y="1310" as="sourcePoint" />
+            <mxPoint x="1344.58" y="1500" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-342" value="获取班级列表" style="" vertex="1" parent="1">
+          <mxGeometry x="1190" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-343" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TUafEwfIU1hCBpsNXQoA-273" target="TUafEwfIU1hCBpsNXQoA-342">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="580" as="sourcePoint" />
+            <mxPoint x="1235" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1350" y="305" />
+              <mxPoint x="1350" y="525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TUafEwfIU1hCBpsNXQoA-344" value="作业内容表【作业维度】&#xa;【关联钉钉作业id】" style="" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1230" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
