@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T11:42:35.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.6" etag="tSc1KOt90eSxOWOzWdSH" type="github"><diagram id="hx9KXaJLN9UGzNXMC_4t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-07T11:58:11.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="Hov6ko9VK4ZBwL7IwVt4" version="14.7.6" type="github">
+  <diagram id="hx9KXaJLN9UGzNXMC_4t" name="Page-1">
+    <mxGraphModel dx="1356" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-1" value="消费者回调&lt;br&gt;&lt;span style=&quot;color: rgb(96 , 98 , 102) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ImApp.&lt;/span&gt;&lt;span style=&quot;color: rgb(96 , 98 , 102) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;syncMsg&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://test-chat-env00.xiaozhu.com/imCallback/syncMsg&quot; class=&quot;external-link&quot; style=&quot;color: rgb(0 , 82 , 204) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;imCallback/syncMsg&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-2" value="redis加锁" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9DFmKsOJhxxWIDsn80Cj-1" target="9DFmKsOJhxxWIDsn80Cj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="sourcePoint" />
+            <mxPoint x="440" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-5" value="向房态小助手上报&lt;br&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;$_ENV&lt;span style=&quot;font-size: 10.5pt&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt ; color: rgb(106 , 135 , 89)&quot;&gt;&#39;REMIND_CALLBACK_URL&#39;&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt&quot;&gt;] .&lt;/span&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;/service/imCallbackLodge/push&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.5" y="240" as="sourcePoint" />
+            <mxPoint x="259.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-8" value="touserId == &#39;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;ROOM_HELPER_ID&lt;/span&gt;&#39;&amp;nbsp; &amp;amp;&amp;amp; content == &#39;KT&#39;&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9DFmKsOJhxxWIDsn80Cj-6">
+          <mxGeometry x="-0.2667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-9" value="同步新的message" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-10" value="老的IM&amp;nbsp;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;$dataVersion == 1&lt;/span&gt;" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9DFmKsOJhxxWIDsn80Cj-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259.5" y="380" as="sourcePoint" />
+            <mxPoint x="259.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9DFmKsOJhxxWIDsn80Cj-5" target="9DFmKsOJhxxWIDsn80Cj-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="420" as="sourcePoint" />
+            <mxPoint x="530" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-13" value="&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170) ; background-color: rgb(255 , 255 , 255)&quot;&gt;新的 $dataVersion == 2&lt;/span&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9DFmKsOJhxxWIDsn80Cj-12">
+          <mxGeometry x="0.6341" y="2" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-15" value="同步老的XZweb&lt;br&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;$_ENV&lt;/span&gt;[&lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;MAIN_SERVICE_URL&#39;&lt;/span&gt;] . &lt;span style=&quot;color: rgb(106 , 135 , 89)&quot;&gt;&#39;/xzstub.php?op=syncChatMsg&amp;amp;token=&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9DFmKsOJhxxWIDsn80Cj-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="340" as="sourcePoint" />
+            <mxPoint x="710" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-18" value="$dataVersion != 1 &amp;amp;&amp;amp; !=2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9DFmKsOJhxxWIDsn80Cj-16">
+          <mxGeometry x="0.6267" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9DFmKsOJhxxWIDsn80Cj-17" value="同步老的和新的" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
