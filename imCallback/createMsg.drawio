@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T08:25:07.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.6" etag="GNNbPYRO5qGABeDJe41n" type="github"><diagram id="9ctEbMU0frYI7MUb2ZhU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-07T09:19:09.749Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="bPtPDrpSgQx5XSdT5MIY" version="14.7.6" type="github">
+  <diagram id="9ctEbMU0frYI7MUb2ZhU" name="Page-1">
+    <mxGraphModel dx="2237" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-1" value="&lt;span style=&quot;color: rgb(96 , 98 , 102) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;消费者回调ImApp.&lt;/span&gt;&lt;span style=&quot;color: rgb(96 , 98 , 102) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;createMsgCallback&lt;br&gt;&lt;/span&gt;&lt;a href=&quot;https://test-chat-env00.xiaozhu.com/imCallback/createMsg&quot; class=&quot;external-link&quot; style=&quot;color: rgb(0 , 82 , 204) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;imCallback/createMsg&lt;/a&gt;&lt;span style=&quot;color: rgb(96 , 98 , 102) ; font-family: , , &amp;#34;segoe ui&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;oxygen&amp;#34; , &amp;#34;ubuntu&amp;#34; , &amp;#34;fira sans&amp;#34; , &amp;#34;droid sans&amp;#34; , &amp;#34;helvetica neue&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-2" value="参数校验" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-3" value="检查告警信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="250" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-4" value="redis设置，key = &#39;msg_detail_&#39;.$msgId&amp;nbsp;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E6%9F%A5%E5%91%8A%E8%AD%A6%E4%BF%A1%E6%81%AF%22%20style%3D%22rhombus%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22250%22%20width%3D%22170%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%A3%80%E6%9F%A5%E5%91%8A%E8%AD%A6%E4%BF%A1%E6%81%AF%22%20style%3D%22rhombus%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22250%22%20width%3D%22170%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&amp;nbsp;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-5" value="发消息向im_service,message/add" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-6" value="发消息向&lt;br&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; background-color: rgb(255 , 255 , 255)&quot;&gt;ImApp.pushPromotionNotifyEvent&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;$this&lt;/span&gt;-&amp;gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;pushPromotionNotifyService&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-5" target="3_c5Hhh_Xnv7yylX11fN-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint" />
+            <mxPoint x="440" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-9" value="msgType == &#39;chat&#39; &amp;amp;&amp;amp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;PromotionKey == true &amp;amp;&amp;amp; fromuserid != landlordid&amp;nbsp;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3_c5Hhh_Xnv7yylX11fN-7">
+          <mxGeometry x="-0.16" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-8" value="msgType != &#39;chat&#39;&amp;nbsp; || PromotionKey == false || fromuserid == landlordid" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-5" target="3_c5Hhh_Xnv7yylX11fN-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="480" as="sourcePoint" />
+            <mxPoint x="610" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="520" />
+              <mxPoint x="600" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-4" target="3_c5Hhh_Xnv7yylX11fN-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-3" target="3_c5Hhh_Xnv7yylX11fN-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-2" target="3_c5Hhh_Xnv7yylX11fN-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="340" as="sourcePoint" />
+            <mxPoint x="225" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="220" as="sourcePoint" />
+            <mxPoint x="215" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-15" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-16" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-2" target="3_c5Hhh_Xnv7yylX11fN-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="-130" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="170" />
+              <mxPoint x="-130" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="710" as="sourcePoint" />
+            <mxPoint x="215" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-20" value="isForbidden == false &amp;amp;&amp;amp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;msgType notintarary(7,8,9,10)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3_c5Hhh_Xnv7yylX11fN-17">
+          <mxGeometry x="-0.1778" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-19" value="&lt;font color=&quot;#33001a&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;更新&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;updateTalkSummary&lt;br&gt;表im_talk_summary&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="780" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-21" value="发送引导话术&lt;br&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9B%B4%E6%96%B0%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(255%20%2C%20198%20%2C%20109)%20%3B%20font-family%3A%20%26amp%3B%2334%3Bmenlo%26amp%3B%2334%3B%20%3B%20font-size%3A%2010.5pt%20%3B%20background-color%3A%20rgb(255%20%2C%20255%20%2C%20255)%26quot%3B%26gt%3BupdateTalkSummary%26lt%3Bbr%26gt%3B%E8%A1%A8%26lt%3B%2Fspan%26gt%3B%26lt%3Bspan%20style%3D%26quot%3Bbackground-color%3A%20rgb(35%20%2C%2037%20%2C%2037)%20%3B%20color%3A%20rgb(98%20%2C%20151%20%2C%2085)%20%3B%20font-style%3A%20italic%20%3B%20font-family%3A%20%26amp%3B%2334%3Bmenlo%26amp%3B%2334%3B%20%3B%20font-size%3A%2010.5pt%26quot%3B%26gt%3Bim_talk_summary%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22rhombus%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22780%22%20width%3D%22170%22%20height%3D%2280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="940" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-22" value="发送pms&lt;br&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;color: rgb(106 , 135 , 89) ; background-color: rgb(255 , 255 , 255)&quot;&gt;imChatPub.imChatPubTopic&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;color: rgb(169 , 183 , 198) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 10.5pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;$this&lt;/span&gt;-&amp;gt;&lt;span style=&quot;color: rgb(152 , 118 , 170)&quot;&gt;imChatPubTopic&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1130" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-21" target="3_c5Hhh_Xnv7yylX11fN-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1080" as="sourcePoint" />
+            <mxPoint x="440" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-25" value="msgType = 1,2,3,4,5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3_c5Hhh_Xnv7yylX11fN-23">
+          <mxGeometry x="0.2625" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-24" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-22" target="3_c5Hhh_Xnv7yylX11fN-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="1030" as="sourcePoint" />
+            <mxPoint x="225" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-26" value="msgType != 1,2,3,4,5" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-21" target="3_c5Hhh_Xnv7yylX11fN-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1270" as="sourcePoint" />
+            <mxPoint x="520" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="980" />
+              <mxPoint x="600" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-27" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-19" target="3_c5Hhh_Xnv7yylX11fN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-28" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="3_c5Hhh_Xnv7yylX11fN-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="300" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="650" />
+              <mxPoint x="600" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_c5Hhh_Xnv7yylX11fN-29" value="isForBidden == true || msgType in (7,8,9,10)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3_c5Hhh_Xnv7yylX11fN-28">
+          <mxGeometry x="0.0194" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
